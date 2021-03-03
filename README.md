@@ -1,4 +1,4 @@
-# Put title of your app here
+# Puppies List
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -7,6 +7,8 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+
+This is an app for adopting puppies, you can see the list of puppies. and then you can click to entry the details page and click the button to adopt.
 
 
 ## :bulb: Motivation and Context
